@@ -1,0 +1,30 @@
+.some-text-1 {
+font-family: "open sans";
+font-size: 20px;
+line-height: 30px;
+font-style: italic;
+}
+.some-text-2 {
+    font-family: "times new roman";
+    font-weight: 500;
+    font-size: 20   px;
+    text-decoration: line-through;
+}
+.some-text-3 {
+    font-family: serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.some-text-4 {
+    font-family: serif;
+    color: #f71fc8; 
+    word-spacing: 30px;
+    text-decoration: overline wavy;
+    text-shadow: 1px 0.5px 0px #ba45a0;
+}
+.some-text-5 {
+    font-family: serif;
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}
