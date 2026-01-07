@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+.form {
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.title {
+    padding: 10px 14px 0;
+    font-size: medium;
+}
+
+fieldset * {
+    display: block; 
+    
+}
+
+.group-1 {
+    border: none;
+}
+
+.label-1 {
+    margin-bottom: 10px;
+}
+
+.input {
+    margin: 5px 0;
+    width: 200px;
+}
+
+.legend {
+    margin-bottom: 5px;
+}
+
+.textarea {
+    resize: vertical;
+    width: 200px;
+    max-height: 200px;
+}
+
+.group-2 {
+    border: none;
+}
+
+.label-2 {
+    margin-top: -7px;
+}
+
+.input-2 {
+    display: inline;
+    cursor: pointer;
+    
+}
+
+.button {
+    margin: 5px 15px 23px 18px;
+    border: none;
+    width: 100px;
+    cursor: pointer;
+}
